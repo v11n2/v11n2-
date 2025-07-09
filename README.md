@@ -7,4 +7,4 @@
 📚  Estudando de forma gradual temas que despertam minha curiosidade <br>
 📌  Em busca das primeiras experiências práticas e oportunidades para desenvolver novas habilidaes <br>
 
-✉️  Contato: [vitorialima586663@gmail.com] (mailto:vitorilima58663@gmail.com)
+✉️  Contato: [vitorialima586663@gmail.com](mailto:vitorilima586663@gmail.com)
